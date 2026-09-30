@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/theme-manifest.json",
+  "id": "com.niannian1145.dracula",
+  "name": "Dracula Theme.",
+  "version": "1.0.0",
+  "description": "Official‑inspired port of Dracula theme (Dracula Classic + Alucard Light) for Xed‑Editor.",
+  "type": "theme",
+  "author": {
+    "displayName": "niannian1145"
+  },
+  "repository": "https://github.com/niannian1145/xed-dracula-theme",
+  "license": "MIT",
+  "tags": ["dracula","alucard","dark","light","popular"],
+  "minAppVersion": 87,
+  "inheritBase": true
+}
